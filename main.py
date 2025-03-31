@@ -3,6 +3,7 @@ import datetime
 import time
 from urllib.parse import urljoin, quote
 from selenium.webdriver.common.by import By
+
 import os
 import sys
 import re  # For regex extraction
